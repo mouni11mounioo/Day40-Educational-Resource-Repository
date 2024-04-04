@@ -1,1 +1,1 @@
-# Day40-Educational-Resource-Repository
+# -Educational-Resource-Repository
